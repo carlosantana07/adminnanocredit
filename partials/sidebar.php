@@ -4,9 +4,9 @@
         </button>
         <div>
             <a href="index.php" class="sidebar-logo">
-                <img src="assets/images/logo.png" alt="site logo" class="light-logo">
-                <img src="assets/images/logo-light.png" alt="site logo" class="dark-logo">
-                <img src="assets/images/logo-icon.png" alt="site logo" class="logo-icon">
+                <img src="assets/images/rnclogo2.png" alt="site logo" class="light-logo">
+                <img src="assets/images/rnclogo2.png" alt="site logo" class="dark-logo">
+                <img src="assets/images/rnclogo2.png" alt="site logo" class="logo-icon">RNC - Admin
             </a>
         </div>
         <div class="sidebar-menu-area">
@@ -14,7 +14,7 @@
                 <li class="dropdown">
                     <a href="javascript:void(0)">
                         <iconify-icon icon="solar:home-smile-angle-outline" class="menu-icon"></iconify-icon>
-                        <span>Dashboard</span>
+                        <span>Tableau de Bord</span>
                     </a>
                     <ul class="sidebar-submenu">
                         <li>
@@ -25,9 +25,6 @@
                         </li>
                         <li>
                             <a href="index-3.php"><i class="ri-circle-fill circle-icon text-info-main w-auto"></i> eCommerce</a>
-                        </li>
-                        <li>
-                            <a href="index-4.php"><i class="ri-circle-fill circle-icon text-danger-main w-auto"></i> Cryptocurrency</a>
                         </li>
                         <li>
                             <a href="index-5.php"><i class="ri-circle-fill circle-icon text-success-main w-auto"></i> Investment</a>
